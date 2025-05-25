@@ -1,14 +1,10 @@
 {
-  "name": "docker-centos-hello-world",
-  "private": true,
-  "version": "0.0.1",
-  "description": "Node.js Hello World app on Ubuntu using docker",
-  "author": "Daniel Gasienica <daniel@gasienica.ch>",
-  "contributors": [{
-    "name": "Sean P. Kane",
-    "email": "spkane00+github@gmail.com"
-  }],
+  "name": "mod02-docker-node",
+  "version": "1.0.0",
+  "main": "app.js",
+  "description": "Node.js example application for Docker",
+  "author": "Bruno M. Sousa <bmsousa@dei.uc.pt>",
   "dependencies": {
-    "express": "3.2.4"
+    "express": "^4.18.4"
   }
 }
