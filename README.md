@@ -49,4 +49,6 @@ docker stop mod02-docker-node
 
 # Re-Running
 
+```
 docker start mia-AI-infra/mod02-docker-node
+```
